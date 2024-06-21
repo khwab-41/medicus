@@ -1,8 +1,4 @@
-# Initial Commit
-
-This is the initial commit for the project. It sets up the basic structure and files for the project. 
-
-## Project Overview
+# Project Overview
 
 The project aims to develop a software application for Medicus, a healthcare company. The application will streamline doctors' recruitment by hospitals and clinics, by providing a platform for doctors to register, apply for jobs, and manage their schedules.
 
@@ -23,6 +19,6 @@ The project aims to develop a software application for Medicus, a healthcare com
 
 To get started with the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/medicus/medicus-app.git`
-2. Install the dependencies: `npm install`
-3. Start the development server: `npm start`
+1. Clone the repository: git clone https://github.com/medicus/medicus-app.git
+2. Install the dependencies: npm install
+3. Start the development server: npm start
