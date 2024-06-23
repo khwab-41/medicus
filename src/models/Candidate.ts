@@ -31,3 +31,5 @@ const CandidateSchema: Schema<CandidateInterface> = new Schema({
 });
 
 const candidateModel = (mongoose.models.Candidate as mongoose.Model<CandidateInterface>) || mongoose.model<CandidateInterface>('Candidate', CandidateSchema);
+
+export default candidateModel;
